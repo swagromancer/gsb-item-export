@@ -1,0 +1,12 @@
+{
+  "name": "gsb-item-export",
+  "version": "1.0.0",
+  "description": "Exports GSB items for easier import into 5e player tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cory Graham",
+  "license": "ISC"
+}
